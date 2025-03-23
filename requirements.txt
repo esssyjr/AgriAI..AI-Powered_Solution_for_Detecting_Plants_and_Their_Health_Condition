@@ -1,0 +1,8 @@
+gradio
+ultralytics
+opencv-python
+tensorflow
+numpy
+Pillow
+scikit-learn
+gtts
