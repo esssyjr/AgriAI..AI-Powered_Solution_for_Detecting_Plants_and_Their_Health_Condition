@@ -1,4 +1,5 @@
 # AgriAI: AI-Powered Solution for Detecting Plants and Their Health Condition
+![Image](https://github.com/user-attachments/assets/327faf73-da4a-4dc4-8b90-1a4152c0d21b)
 
 ## Overview
 This project is an AI-powered system designed to detect plants and classify their health status. The system leverages deep learning to provide accurate and efficient plant monitoring. The detection model, built using YOLOv8, identifies sesame plants in an image, while the classification model, based on a pre-trained MobileNet, determines whether a plant is healthy or diseased. The ultimate goal is to integrate this system into a drone for automated farm monitoring and crop health assessment.
