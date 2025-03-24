@@ -9,7 +9,7 @@ This project is an AI-powered system designed to detect plants and classify thei
 - **Scalability:** The system is designed to be integrated into drones for automated surveillance and response.
 
 ## Dataset Link
-   - **Detection Dataset:** I collected and annotated sesame plant images, available on Kaggle. 📂 **[Detection (Sesame) Dataset](https://www.kaggle.com/datasets/ismailismailtijjani/keke-napep-tricycle-dataset)**  
+   - **Detection Dataset:** I collected and annotated sesame plant images, available on Kaggle. 📂 **[Detection (Sesame) Dataset](https://www.kaggle.com/datasets/ismailismailtijjani/sesame-plant-detection-dataset)**  
 - **Classification Dataset:** I used open sourced dataset. 📂 **[Classification (Bean) Dataset](https://www.kaggle.com/datasets/therealoise/bean-disease-dataset)**
 ## Hugging Face Demo Link
 📂 **[AGRIAI Huggung Face Demo](https://huggingface.co/spaces/esssyjr/AGRIAI)**  
@@ -32,7 +32,8 @@ This project is an AI-powered system designed to detect plants and classify thei
 
   #### **Video Demo**  
 Watch the detection test video here:  
-📹 [KEKE_NAPEP_VIDEO_TRACKING_DEMO_1](https://youtu.be/sZ4QVAU8XIg?si=ywSxweO6F7owK_5B)  
+📹 [Sesame_Detection_DEMO](https://youtu.be/kM19m_CL_QE)  
+📹 [Sesame_Segmentation_DEMO](https://youtu.be/_C8HoQAN18g)  
 
 
 ## Installation & Usage
